@@ -1,3 +1,2 @@
-文件
-You can use the [editor on GitHub](https://github.com/BluesYu/API_v1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.内容
-You can use the [editor on GitHub](https://github.com/BluesYu/API_v1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+文件内容：
+解析QL表达式的工具方法类，使用通用的方法。
